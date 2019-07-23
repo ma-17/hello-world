@@ -1,4 +1,10 @@
 # hello-world
+
+Name: Mary Ma
+Student Number: 991494669
+Login: ma17
+Campus: Trafalgar
+
 Hello world repository for SYST24444 exercise 3
 
 Hi Humans!
